@@ -1,4 +1,4 @@
-# HBdata_v1
+# HBdata
 
 This repository contains pre-processed data from a header bidding platform.
 
